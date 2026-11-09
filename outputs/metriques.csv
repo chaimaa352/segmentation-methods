@@ -1,0 +1,11 @@
+Méthode,Métrique,Valeur
+Segmentation classique (SLIC),ASA,0.937
+Segmentation classique (SLIC),Rappel de frontières,0.605
+Détection (Faster R-CNN),mAP@[.5:.95],0.46
+Détection (Faster R-CNN),AP@0.5,0.677
+Détection (Faster R-CNN),IoU moyen des boîtes,0.615
+Sémantique (DeepLabV3),mIoU,0.431
+Sémantique (DeepLabV3),Dice moyen,0.483
+Sémantique (DeepLabV3),Précision pixel,0.971
+Instance (Mask R-CNN),mAP masques @[.5:.95],0.311
+Instance (Mask R-CNN),AP masques @0.5,0.51

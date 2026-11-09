@@ -1,0 +1,11 @@
+# Environnement
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données (téléchargées automatiquement par le notebook)
+data/annotations/
+data/images/
+
+# Poids des modèles
+*.pth
